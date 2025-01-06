@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.1">
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q1\Timesheet.java">
+</file>
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q1\TimesheetRow.java">
+</file>
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q2\Exponential.java">
+</file>
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q3\MIXChar.java">
+<error line="25" column="16" severity="warning" message="&apos;mixChars&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="32" column="43" severity="warning" message="Must have at least one statement." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck"/>
+</file>
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q3\Message.java">
+</file>
+<file name="D:\BCIT_CST\1510 Java\Lab submission\Comp1510-assign-4\src\q3\TestMIXChar.java">
+<error line="15" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="17" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="19" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+</checkstyle>
